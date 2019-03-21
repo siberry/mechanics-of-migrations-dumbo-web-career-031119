@@ -1,4 +1,4 @@
-require 'rake'
+Mrequire 'rake'
 require 'active_record'
 require 'yaml/store'
 require 'ostruct'
